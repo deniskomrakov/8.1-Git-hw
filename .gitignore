@@ -1,0 +1,4 @@
+test.conf
+directory/example.conf
+cache/*
+*.jpg
