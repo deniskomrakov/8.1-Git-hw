@@ -1,4 +1,4 @@
-test.conf
-directory/example.conf
+*.рус
+
 cache/*
-*.jpg
+
