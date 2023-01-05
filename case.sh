@@ -17,6 +17,7 @@ case "$a" in
         *)
         echo "Unknown"
 
+#dev, second comment
 #dev, first comment
 
 esac
