@@ -71,4 +71,5 @@ https://github.com/deniskomrakov/8.1-Git-hw/commit/326abef71a2a409f3547dc1ebe781
 4. Сделайте мердж этой ветки в основную. Сначала нужно переключиться на неё, а потом вызывать git merge.
 5. Сделайте коммит и пуш.
 
+https://github.com/deniskomrakov/8.1-Git-hw/commit/6d12b813d051862bc6c2308f74b40051ddc8f594
 
